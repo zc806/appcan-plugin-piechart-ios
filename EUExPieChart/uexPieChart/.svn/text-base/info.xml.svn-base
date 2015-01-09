@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<uexplugins>
-    <plugin
-        uexName="uexPieChart" version="3.0.1" build="1">
-        <info>1:统一回调方法名，统一回调参数</info>
-        <build>0:旋转饼状图功能插件</build>
-    </plugin>
-</uexplugins>
